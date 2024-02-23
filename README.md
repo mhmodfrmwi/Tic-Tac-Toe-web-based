@@ -8,10 +8,10 @@ This is a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaS
   - Implemented with ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;.
 
 - **HTML Structure:**
-  - Defined with ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;.
+  - Implemented with ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;.
 
 - **Styling:**
-  -  Defined with ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;.
+  -  Implemented with ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;.
 
 
 ## Features
